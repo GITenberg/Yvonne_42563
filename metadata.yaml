@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41743'
     url: http://www.gutenberg.org/2009/agents/41743
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42563#Yvonne
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-04-20'
 gutenberg_type: Text
