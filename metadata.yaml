@@ -1,0 +1,28 @@
+_repo: Yvonne_42563
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42563-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Delpit, Édouard
+    alias: Delpit, Edouard
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '41743'
+    url: http://www.gutenberg.org/2009/agents/41743
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42563'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Yvonne
+url: http://www.gutenberg.org/ebooks/42563
